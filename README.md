@@ -1,1 +1,1 @@
-# swRefresh
+# react-native-swRefresh
