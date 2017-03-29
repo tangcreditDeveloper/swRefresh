@@ -1,0 +1,118 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-swRefresh@^1.2.3",
+        "scope": null,
+        "escapedName": "react-native-swRefresh",
+        "name": "react-native-swRefresh",
+        "rawSpec": "^1.2.3",
+        "spec": ">=1.2.3 <2.0.0",
+        "type": "range"
+      },
+      "D:\\TangChain_fe"
+    ],
+    [
+      {
+        "raw": "react-native-swRefresh@git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+        "scope": null,
+        "escapedName": "react-native-swRefresh",
+        "name": "react-native-swRefresh",
+        "rawSpec": "git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+        "spec": "git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:tangcreditDeveloper/react-native-swRefresh.git",
+          "sshUrl": "git+ssh://git@github.com/tangcreditDeveloper/react-native-swRefresh.git",
+          "httpsUrl": "git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+          "gitUrl": "git://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+          "shortcut": "github:tangcreditDeveloper/react-native-swRefresh",
+          "directUrl": "https://raw.githubusercontent.com/tangcreditDeveloper/react-native-swRefresh/master/package.json"
+        }
+      },
+      "D:\\TangChain_fe"
+    ]
+  ],
+  "_from": "git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+  "_id": "react-native-swRefresh@1.2.3",
+  "_inCache": true,
+  "_location": "/react-native-swRefresh",
+  "_nodeVersion": "6.8.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-swRefresh-1.2.3.tgz_1481180171233_0.32580871181562543"
+  },
+  "_npmUser": {
+    "name": "shiwenwen",
+    "email": "s13731984233@163.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-swRefresh@git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+    "scope": null,
+    "escapedName": "react-native-swRefresh",
+    "name": "react-native-swRefresh",
+    "rawSpec": "git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+    "spec": "git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:tangcreditDeveloper/react-native-swRefresh.git",
+      "sshUrl": "git+ssh://git@github.com/tangcreditDeveloper/react-native-swRefresh.git",
+      "httpsUrl": "git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+      "gitUrl": "git://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+      "shortcut": "github:tangcreditDeveloper/react-native-swRefresh",
+      "directUrl": "https://raw.githubusercontent.com/tangcreditDeveloper/react-native-swRefresh/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git#89966f8b0b2c43f306e2e5508e7d24c2f4172348",
+  "_shasum": "11ffb39f2972c059311522561a9b3f573ee0ae88",
+  "_shrinkwrap": null,
+  "_spec": "react-native-swRefresh@git+https://github.com/tangcreditDeveloper/react-native-swRefresh.git",
+  "_where": "D:\\TangChain_fe",
+  "bugs": {
+    "url": "https://github.com/shiwenwen/react-native-swRefresh/issues"
+  },
+  "dependencies": {},
+  "description": "react native pull refresh push loadMore scrollView,listView下拉刷新下拉加载控件,支持自定义，简单好用",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "84fa925cc13322812251c023f331dbfd5c03095a",
+    "tarball": "https://registry.npmjs.org/react-native-swRefresh/-/react-native-swRefresh-1.2.3.tgz"
+  },
+  "gitHead": "e0f16344a9d3ab31ca89af37f08f7cb6375032da",
+  "homepage": "https://github.com/shiwenwen/react-native-swRefresh#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "pull refresh",
+    "push loadMore",
+    "下拉刷新",
+    "上拉加载"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "maintainers": [
+    {
+      "name": "shiwenwen",
+      "email": "s13731984233@163.com"
+    }
+  ],
+  "name": "react-native-swRefresh",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiwenwen/react-native-swRefresh.git"
+  },
+  "scripts": {},
+  "version": "1.2.3"
+}
